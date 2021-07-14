@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roddshan
-- 👀 I’m interested in Ethical Hacking, Web Application Pentesting
-- 🌱 I’m currently working as a Penetration Tester
+- 👀 Ethical Hacker
+- 🌱 I’m currently working as a Penetration Tester(Web/Android/Network)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -- https://linkedin/in/roddshan
 
